@@ -1,7 +1,7 @@
 {
   "name": "trump",
   "clients": [],
-  "modelProvider": "xai",
+  "modelProvider": "GROK",
   "settings": {
     "secrets": {},
     "voice": {
